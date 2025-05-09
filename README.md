@@ -1,7 +1,7 @@
 # Cybersecurity : CSN150-Doc-Template
 
 ## Name of Project
-ESP32 Introduction
+ESP32 Camera SetUp
 
 ## Purpose
 Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner". 
@@ -19,14 +19,15 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 
 
 ## Steps I followed
-1. Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work. 
+1. File > Examples > ESP32 > Camera > CameraWebServer.
+2. Switched to AI-THINKER model 
+3. Connected ESP32 to my network
+4. Copied and pasted IP to my browser to gain access to camera.
 
 ## Problems
 Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer. Document your errors and solutions that worked for you.  
 
-1. E (485) camera: Camera probe failed with error 0x105(ESP_ERR_NOT_FOUND)
-Camera init failed with error 0x105
- How did I solve: 
+1. NO ISSUES WERE ENCOUNTERED!! 
 
 ### Example Problem
 1. Arduino code will not load on ESP32 Cam.
