@@ -33,5 +33,12 @@ Note your problems or errors here.  Google any error you may come across, and no
 1. Arduino code will not load on ESP32 Cam.
    Answer: Camera drivers were incorrect I needed to install the driver: [https://www.wch-ic.com/downloads/CH341SER_ZIP.html](https://github.com/martin-ger/esp32_nat_router).  I used file, "CH341SER.ZIP" and it worked.
 
+## ESP32 WiFi Scan Assignment:
+
+## Steps I Followed:
+
+1. Select AI Thinker ESP32 board and the port.
+2. File>Examples>Wifi>WifiScan
+3. Choosing 115200 baud rate
 
 ## Final Report
