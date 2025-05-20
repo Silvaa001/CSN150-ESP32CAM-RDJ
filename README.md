@@ -41,4 +41,20 @@ Note your problems or errors here.  Google any error you may come across, and no
 2. File>Examples>Wifi>WifiScan
 3. Choosing 115200 baud rate
 
+## CSN 150 Final Project - ESP32 Whatsapp messages
+
+## Steps I Followed:
+
+1. Add the phone number +34 621 331 709 to your Phone Contacts on Whatsapp.
+2. Send the following message: “I allow callmebot to send me messages” to the new Contact created.
+3. Wait until you receive the message “API Activated for your phone number.
+4. Installing the URLEncode Library on ARDUINO
+5. Selecting AI Thinker ESP32 board with appropriate port.
+6. Pasting code and fill in the missing user credentials.
+7. wait for message sent in serial monitor.
+
+## Problems:
+
+Serial Monitor did not want to connect and send the message. To resolve, I noticed I was connected to the wrong WiFi.
+
 ## Final Report
